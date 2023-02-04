@@ -1,6 +1,7 @@
 from matplotlib import pyplot
 import cv2
 import numpy as np
+# import cv2 as cv
 import sys
 from PIL import Image
 
@@ -189,3 +190,6 @@ for p in range (0,2):
 
 im = Image.fromarray(blank_image)
 im.save('dotmatrix.jpg')
+
+# Just adding this comment to check the branch feature of github
+# Well it's cool
