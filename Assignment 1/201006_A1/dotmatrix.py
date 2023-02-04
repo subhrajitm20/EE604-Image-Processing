@@ -193,3 +193,4 @@ im.save('dotmatrix.jpg')
 
 # Just adding this comment to check the branch feature of github
 # Well it's cool
+# Adding a new comment after completing steps
